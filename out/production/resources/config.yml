@@ -1,0 +1,10 @@
+# Chat Messages
+joinMessage: "&8[&a+&8] &7{0}"
+quitMessage: "&8[&c-&8] &7{0}"
+
+# Titles
+title: "&8-=-=- &5Classics&dMC &8-=-=-"
+subtitle: "&7The adventure continues..."
+fadeIn: 20
+stay: 40
+fadeOut: 20
