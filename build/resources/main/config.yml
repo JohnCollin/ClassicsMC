@@ -8,10 +8,3 @@ subtitle: "&7The adventure continues..."
 fadeIn: 20
 stay: 40
 fadeOut: 20
-
-#Spawn Configuration
-spawn:
-  world: world
-  x: 0.0
-  y: 0.0
-  z: 0.0

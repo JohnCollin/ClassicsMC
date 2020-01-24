@@ -23,8 +23,8 @@ public class PlayerTrafficListener implements Listener {
 	
 	private ClassicsMC classicsMC;
 	
-	public PlayerTrafficListener(ClassicsMC classicsJoinQuitMessages) {
-		this.classicsMC = classicsJoinQuitMessages;
+	public PlayerTrafficListener(ClassicsMC classicsMC) {
+		this.classicsMC = classicsMC;
 	}
 	
 	@EventHandler(priority = EventPriority.HIGHEST)

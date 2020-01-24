@@ -1,0 +1,8 @@
+name: ClassicsJoinQuitMessages
+version: 0.1.0-SNAPSHOT
+
+description: Han Shot First.
+
+author: JohnCollin
+
+main: org.cjohnson.classicsjoinquitmessages.ClassicsJoinQuitMessages

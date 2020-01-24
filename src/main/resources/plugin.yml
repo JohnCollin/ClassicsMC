@@ -1,8 +1,8 @@
-name: ClassicsJoinQuitMessages
-version: 0.1.0-SNAPSHOT
+name: ClassicsMC
+version: 0.2.1-SNAPSHOT
 
 description: Han Shot First.
 
 author: JohnCollin
 
-main: org.cjohnson.classicsjoinquitmessages.ClassicsJoinQuitMessages
+main: org.cjohnson.classicsmc.ClassicsMC
